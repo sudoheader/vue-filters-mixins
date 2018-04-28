@@ -1,4 +1,4 @@
-# vue-cli
+# vue-filters-mixins
 
 > A Vue.js project
 
